@@ -1,10 +1,12 @@
+# Real Estate Price Prediction
+
 "Real Estate Price Prediction using Machine Learning" is a project aimed at predicting the prices of real estate properties based on various factors
 using machine learning techniques. This project involves collecting and preprocessing real estate data, selecting relevant features, training machine
 learning models, and evaluating their performance to predict property prices accurately.
 
 Key components of the project may include:
-1. Data Collection: Gathering data related to real estate properties, including features such as 'Transaction date', 'House age', 'Distance to the nearest MRT station',
-       'Number of convenience stores', 'Latitude', 'Longitude','House price of unit area'.
+1. Data Collection: Gathering data related to real estate properties, including features such as 'Transaction date', 'House age', 
+   'Distance to the nearest MRT station','Number of convenience stores', 'Latitude', 'Longitude','House price of unit area'.
 
 2. Data Preprocessing: Cleaning and preprocessing the collected data to handle missing values, outliers, and inconsistencies. This may involve data
    cleaning, feature engineering, normalization, and scaling to prepare the data for machine learning algorithms.
