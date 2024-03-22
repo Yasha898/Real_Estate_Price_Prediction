@@ -4,7 +4,7 @@
 using machine learning techniques. This project involves collecting and preprocessing real estate data, selecting relevant features, training machine
 learning models, and evaluating their performance to predict property prices accurately.
 
-Key components of the project may include:
+# Key components of the project may include:
 1. Data Collection: Gathering data related to real estate properties, including features such as 'Transaction date', 'House age', 
    'Distance to the nearest MRT station','Number of convenience stores', 'Latitude', 'Longitude','House price of unit area'.
 
